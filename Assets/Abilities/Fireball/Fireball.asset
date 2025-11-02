@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6462ddc356c849c392de644d4a02eed, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  abilityName: Fireball
+  abilityIcon: {fileID: 21300000, guid: 48d51e233715d461dbeccb0c02c55cb9, type: 3}
+  baseCooldown: 0.5
+  animation: {fileID: 7400000, guid: 6821b97af55c947b1ad9042c8ece6f71, type: 2}
+  projectilePrefab: {fileID: 1294834399362254, guid: 9226726c851a790469d64d3093814ad4, type: 3}
+  baseDamage: 10
+  projectileSpeed: 15
+  projectileLifetime: 2

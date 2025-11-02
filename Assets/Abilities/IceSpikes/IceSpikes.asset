@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef751fbbb9ea54ed09a3ca190152621d, type: 3}
+  m_Name: IceSpikes
+  m_EditorClassIdentifier: 
+  abilityName: IceSpikes
+  abilityIcon: {fileID: 21300000, guid: 7cb35cc16857a4382ab5d64ffc12155e, type: 3}
+  baseCooldown: 0.1
+  animation: {fileID: 0}
+  spikeCount: 50
+  maxDistance: 10
+  spawnDelay: 0.005
+  coneAngle: 30
+  spikeSize: 1
+  baseDamage: 15
+  spikeSides: 3
+  spikeMaterial: {fileID: 2100000, guid: 03521f5a9178f498abb142ddadcd1930, type: 2}
