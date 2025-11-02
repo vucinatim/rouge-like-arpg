@@ -75,3 +75,12 @@ mono_crash.*.json
 /[Rr]ougeLikeARPG*/**/*
 !RougeLikeARPG.sln.meta
 
+# macOS
+.DS_Store
+
+# Plastic SCM
+.plastic/
+
+# IDE
+.vscode/
+
